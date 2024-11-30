@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1732899320 source:c:\users\user\onedrive\desktop\factorial_assigment\factorial_iteration\main.cpp
+	<iostream>
+	<chrono>
+
